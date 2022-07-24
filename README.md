@@ -7,3 +7,7 @@ This is basically a working python environment and jupyter notebook for utilizin
 ## Notes
 
 - While the notebook works, a few deprecation warnings will be outputted.
+
+## References
+
+- https://github.com/marceloprates/prettymaps
